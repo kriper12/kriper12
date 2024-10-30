@@ -3,6 +3,7 @@
 <h3 align="center">html | css | js</h3>
 <div align="center">
  <img src="https://img.shields.io/badge/Knows-HTML-blue/?logo=html5&logoColor=warning&color=orange" alt="html">
+  <img src="https://img.shields.io/badge/Knows-CSS-blue/?logo=CSS&logoColor=warning&color=blue" alt="css">
  </div>
 <div align="center">
     <img src="readme.gif" alt="gif" width="150" />
